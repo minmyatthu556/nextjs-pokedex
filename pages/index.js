@@ -15,6 +15,7 @@ export default function Home({ pokemon }) {
           <div className={"py-4 rounded-md mb-8 flex items-center mx-auto bg-gray-700 justify-center w-4/5 sm:w-full "}>
             <img src="/pokeball.png" alt="pokeball" className={"h-10"}/>
             <h1 className={"text-4xl text-center text-gray-50 tracking-wide text-bold uppercase"}>Pokedex</h1>
+            <img src="/pokeball.png" alt="pokeball" className={"h-10"}/>
           </div>
 
           <ul>
